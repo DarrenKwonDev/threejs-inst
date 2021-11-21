@@ -11,12 +11,12 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.formatOnSave": true,
-  "eslint.format.enable": true,
+  "editor.formatOnSave": false,
+  "eslint.format.enable": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll": false,
     "source.organizeImports": false,
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": false
   }
 }
